@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aESBlaPzk6EMlNRY/fGmL58Tr9ATsF78dDHFzSj5F6Q=",
+  "Source": "HelloDocker",
+  "BasePath": "_content/HelloDocker",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
